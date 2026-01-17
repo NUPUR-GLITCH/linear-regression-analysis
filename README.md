@@ -14,6 +14,7 @@ The notebook explains:
 ## 📂 Files in Repository
 - `linear regression.ipynb` – Jupyter Notebook containing full analysis
 - `README.md` – Project documentation
+- `student_scores.csv` – Dataset
 
 ---
 
