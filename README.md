@@ -2,7 +2,6 @@
 
 ## 📌 Project Overview
 This project demonstrates **Simple Linear Regression** using Python.  
-The analysis is performed on a time-series dataset (monthly passenger data) to understand trends and relationships between variables.
 
 The notebook explains:
 - Difference between **Simple Linear Regression** and **Linear Regression**
