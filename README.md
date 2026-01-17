@@ -13,7 +13,7 @@ The notebook explains:
 ---
 
 ## 📂 Files in Repository
-- `e4461375-0ccd-4635-989e-0ed392faf819.ipynb` – Jupyter Notebook containing full analysis
+- `linear regression.ipynb` – Jupyter Notebook containing full analysis
 - `README.md` – Project documentation
 
 ---
@@ -42,9 +42,9 @@ The notebook explains:
    ```bash
    git clone https://github.com/your-username/linear-regression-analysis.git
 
-2.Navigate to the project folder:
-     ```bash
-  cd linear-regression-analysis
+2. Navigate to the project folder:
+    ```bash
+    cd linear-regression-analysis
 
 3. Open the notebook:
      ```bash
