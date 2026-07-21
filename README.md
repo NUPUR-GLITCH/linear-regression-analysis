@@ -241,6 +241,6 @@ This project is available under the **MIT License**.
 
 **If you found this project useful, consider giving it a ⭐ on GitHub!**
 
-Made with ❤️ by **Nupur Joon**
+Made with ❤️ by **Nupur**
 
 </div>
